@@ -1,0 +1,188 @@
+source,target,value,category
+Collateral depreciation,LGD,1,Collateral depreciation
+ECL,Provisions Coverage,1,Collateral depreciation
+ECL,Tier I Capital,1,Collateral depreciation
+ECL,Tier II Capital,1,Collateral depreciation
+ECL,Provisions,1,Collateral depreciation
+Equity,Tier I Capital,1,Collateral depreciation
+LGD,ECL,1,Collateral depreciation
+LGD,RWA,1,Collateral depreciation
+Net Interest Income,PAT,1,Collateral depreciation
+PAT,Equity,1,Collateral depreciation
+Provisions,PAT,1,Collateral depreciation
+RWA,CAR,1,Collateral depreciation
+Tier I Capital,CAR,1,Collateral depreciation
+Tier II Capital,CAR,1,Collateral depreciation
+EAD,ECL,1,Exposure Migration from S2 to S3
+EAD,RWA,1,Exposure Migration from S2 to S3
+ECL,Provisions Coverage,1,Exposure Migration from S2 to S3
+ECL,Tier I Capital,1,Exposure Migration from S2 to S3
+ECL,Tier II Capital,1,Exposure Migration from S2 to S3
+ECL,Provisions,1,Exposure Migration from S2 to S3
+ECL Sensitivity,ECL,1,Exposure Migration from S2 to S3
+Equity,Tier I Capital,1,Exposure Migration from S2 to S3
+Exposure Migration from S2 to S3,Stage Movement,1,Exposure Migration from S2 to S3
+Exposure Migration from S2 to S3,Interest Rates movement,1,Exposure Migration from S2 to S3
+Exposure Migration from S2 to S3,Liquidity Stress,1,Exposure Migration from S2 to S3
+Exposure Migration from S2 to S3,EAD,1,Exposure Migration from S2 to S3
+Interest Rates movement,Net Interest Income,1,Exposure Migration from S2 to S3
+K-Factor Sensitivity,RWA,1,Exposure Migration from S2 to S3
+Liquidity Stress,Net Inflows,1,Exposure Migration from S2 to S3
+Liquidity Stress,Net outflows,1,Exposure Migration from S2 to S3
+Net Inflows,LCR,1,Exposure Migration from S2 to S3
+Net Inflows,NSFR,1,Exposure Migration from S2 to S3
+Net Interest Income,PAT,1,Exposure Migration from S2 to S3
+Net outflows,LCR,1,Exposure Migration from S2 to S3
+Net outflows,NSFR,1,Exposure Migration from S2 to S3
+NPL,Net Inflows,1,Exposure Migration from S2 to S3
+NPL,NPL Ratio,1,Exposure Migration from S2 to S3
+NPL,Provisions Coverage,1,Exposure Migration from S2 to S3
+NPL,Net Interest Income,1,Exposure Migration from S2 to S3
+NPL,Provisions,1,Exposure Migration from S2 to S3
+PAT,Equity,1,Exposure Migration from S2 to S3
+Provisions,PAT,1,Exposure Migration from S2 to S3
+RWA,CAR,1,Exposure Migration from S2 to S3
+Stage Movement,NPL,1,Exposure Migration from S2 to S3
+Stage Movement,K-Factor Sensitivity,1,Exposure Migration from S2 to S3
+Stage Movement,ECL Sensitivity,1,Exposure Migration from S2 to S3
+Tier I Capital,CAR,1,Exposure Migration from S2 to S3
+Tier I Capital,LCR,1,Exposure Migration from S2 to S3
+Tier I Capital,NSFR,1,Exposure Migration from S2 to S3
+Tier II Capital,CAR,1,Exposure Migration from S2 to S3
+Tier II Capital,LCR,1,Exposure Migration from S2 to S3
+Tier II Capital,NSFR,1,Exposure Migration from S2 to S3
+EAD,ECL,1,"Exposure movement from S1 to S2, from and to specific grades"
+EAD,RWA,1,"Exposure movement from S1 to S2, from and to specific grades"
+ECL,Provisions Coverage,1,"Exposure movement from S1 to S2, from and to specific grades"
+ECL,Tier I Capital,1,"Exposure movement from S1 to S2, from and to specific grades"
+ECL,Tier II Capital,1,"Exposure movement from S1 to S2, from and to specific grades"
+ECL,Provisions,1,"Exposure movement from S1 to S2, from and to specific grades"
+ECL Sensitivity,ECL,1,"Exposure movement from S1 to S2, from and to specific grades"
+Equity,Tier I Capital,1,"Exposure movement from S1 to S2, from and to specific grades"
+"Exposure movement from S1 to S2, from and to specific grades",EAD,1,"Exposure movement from S1 to S2, from and to specific grades"
+"Exposure movement from S1 to S2, from and to specific grades",Stage Movement,1,"Exposure movement from S1 to S2, from and to specific grades"
+K-Factor Sensitivity,RWA,1,"Exposure movement from S1 to S2, from and to specific grades"
+Net Interest Income,PAT,1,"Exposure movement from S1 to S2, from and to specific grades"
+PAT,Equity,1,"Exposure movement from S1 to S2, from and to specific grades"
+Provisions,PAT,1,"Exposure movement from S1 to S2, from and to specific grades"
+RWA,CAR,1,"Exposure movement from S1 to S2, from and to specific grades"
+Stage Movement,K-Factor Sensitivity,1,"Exposure movement from S1 to S2, from and to specific grades"
+Stage Movement,ECL Sensitivity,1,"Exposure movement from S1 to S2, from and to specific grades"
+Tier I Capital,CAR,1,"Exposure movement from S1 to S2, from and to specific grades"
+Tier II Capital,CAR,1,"Exposure movement from S1 to S2, from and to specific grades"
+EAD,ECL,1,Migration based on Transition matrix
+EAD,RWA,1,Migration based on Transition matrix
+ECL,Provisions Coverage,1,Migration based on Transition matrix
+ECL,Tier I Capital,1,Migration based on Transition matrix
+ECL,Tier II Capital,1,Migration based on Transition matrix
+ECL,Provisions,1,Migration based on Transition matrix
+ECL Sensitivity,ECL,1,Migration based on Transition matrix
+Equity,Tier I Capital,1,Migration based on Transition matrix
+Interest Rates movement,Net Interest Income,1,Migration based on Transition matrix
+K-Factor Sensitivity,RWA,1,Migration based on Transition matrix
+Liquidity Stress,Net Inflows,1,Migration based on Transition matrix
+Liquidity Stress,Net outflows,1,Migration based on Transition matrix
+Migration based on Transition matrix,Interest Rates movement,1,Migration based on Transition matrix
+Migration based on Transition matrix,Liquidity Stress,1,Migration based on Transition matrix
+Migration based on Transition matrix,EAD,1,Migration based on Transition matrix
+Migration based on Transition matrix,PD,1,Migration based on Transition matrix
+Net Inflows,LCR,1,Migration based on Transition matrix
+Net Inflows,NSFR,1,Migration based on Transition matrix
+Net Interest Income,PAT,1,Migration based on Transition matrix
+Net outflows,LCR,1,Migration based on Transition matrix
+Net outflows,NSFR,1,Migration based on Transition matrix
+NPL,Net Inflows,1,Migration based on Transition matrix
+NPL,NPL Ratio,1,Migration based on Transition matrix
+NPL,Provisions Coverage,1,Migration based on Transition matrix
+NPL,Net Interest Income,1,Migration based on Transition matrix
+NPL,Provisions,1,Migration based on Transition matrix
+PAT,Equity,1,Migration based on Transition matrix
+Provisions,PAT,1,Migration based on Transition matrix
+Rating Movement,Stage Movement,1,Migration based on Transition matrix
+RWA,CAR,1,Migration based on Transition matrix
+Stage Movement,NPL,1,Migration based on Transition matrix
+Stage Movement,K-Factor Sensitivity,1,Migration based on Transition matrix
+Stage Movement,ECL Sensitivity,1,Migration based on Transition matrix
+Tier I Capital,CAR,1,Migration based on Transition matrix
+Tier I Capital,LCR,1,Migration based on Transition matrix
+Tier I Capital,NSFR,1,Migration based on Transition matrix
+Tier II Capital,CAR,1,Migration based on Transition matrix
+Tier II Capital,LCR,1,Migration based on Transition matrix
+Tier II Capital,NSFR,1,Migration based on Transition matrix
+AFS Valuation,Equity,1,Systemic Scenario
+ECL,Tier I Capital,1,Systemic Scenario
+ECL,Tier II Capital,1,Systemic Scenario
+ECL,Provisions,1,Systemic Scenario
+Equity,Tier I Capital,1,Systemic Scenario
+Equity,Tier II Capital,1,Systemic Scenario
+FX movement,Equity,1,Systemic Scenario
+Interest Rates movement,Net Interest Income,1,Systemic Scenario
+Liquidity Stress,Net Inflows,1,Systemic Scenario
+Liquidity Stress,Net outflows,1,Systemic Scenario
+Net Inflows,LCR,1,Systemic Scenario
+Net Inflows,NSFR,1,Systemic Scenario
+Net Interest Income,PAT,1,Systemic Scenario
+Net outflows,LCR,1,Systemic Scenario
+Net outflows,NSFR,1,Systemic Scenario
+NPL,Net Inflows,1,Systemic Scenario
+NPL,NPL Ratio,1,Systemic Scenario
+NPL,Provisions Coverage,1,Systemic Scenario
+NPL,Net Interest Income,1,Systemic Scenario
+NPL,Provisions,1,Systemic Scenario
+PAT,Equity,1,Systemic Scenario
+PD,ECL,1,Systemic Scenario
+PD,Rating Movement,1,Systemic Scenario
+PD,Stage Movement,1,Systemic Scenario
+Provisions,PAT,1,Systemic Scenario
+Rating Movement,RWA,1,Systemic Scenario
+Rating Movement,NPL,1,Systemic Scenario
+Rating Movement,Stage Movement,1,Systemic Scenario
+RWA,CAR,1,Systemic Scenario
+Stage Movement,NPL,1,Systemic Scenario
+Stage Movement,ECL,1,Systemic Scenario
+Systemic Scenario,PD,1,Systemic Scenario
+Systemic Scenario,Interest Rates movement,1,Systemic Scenario
+Systemic Scenario,Liquidity Stress,1,Systemic Scenario
+Systemic Scenario,FX movement,1,Systemic Scenario
+Systemic Scenario,AFS Valuation,1,Systemic Scenario
+Tier I Capital,CAR,1,Systemic Scenario
+Tier I Capital,LCR,1,Systemic Scenario
+Tier I Capital,NSFR,1,Systemic Scenario
+Tier II Capital,CAR,1,Systemic Scenario
+Tier II Capital,LCR,1,Systemic Scenario
+Tier II Capital,NSFR,1,Systemic Scenario
+ECL,Provisions Coverage,1,Top Borrower Default
+ECL,Tier I Capital,1,Top Borrower Default
+ECL,Tier II Capital,1,Top Borrower Default
+ECL,Provisions,1,Top Borrower Default
+Equity,Tier I Capital,1,Top Borrower Default
+Interest Rates movement,Net Interest Income,1,Top Borrower Default
+LGD,ECL,1,Top Borrower Default
+Liquidity Stress,Net Inflows,1,Top Borrower Default
+Liquidity Stress,Net outflows,1,Top Borrower Default
+Net Inflows,LCR,1,Top Borrower Default
+Net Inflows,NSFR,1,Top Borrower Default
+Net Interest Income,PAT,1,Top Borrower Default
+Net outflows,LCR,1,Top Borrower Default
+Net outflows,NSFR,1,Top Borrower Default
+NPL,Net Inflows,1,Top Borrower Default
+NPL,NPL Ratio,1,Top Borrower Default
+NPL,Provisions Coverage,1,Top Borrower Default
+NPL,Net Interest Income,1,Top Borrower Default
+NPL,Provisions,1,Top Borrower Default
+PAT,Equity,1,Top Borrower Default
+PD,ECL,1,Top Borrower Default
+PD,RWA,1,Top Borrower Default
+PD,NPL,1,Top Borrower Default
+Provisions,PAT,1,Top Borrower Default
+RWA,CAR,1,Top Borrower Default
+Tier I Capital,CAR,1,Top Borrower Default
+Tier I Capital,LCR,1,Top Borrower Default
+Tier I Capital,NSFR,1,Top Borrower Default
+Tier II Capital,CAR,1,Top Borrower Default
+Tier II Capital,LCR,1,Top Borrower Default
+Tier II Capital,NSFR,1,Top Borrower Default
+Top Borrower Default,PD,1,Top Borrower Default
+Top Borrower Default,Interest Rates movement,1,Top Borrower Default
+Top Borrower Default,Liquidity Stress,1,Top Borrower Default
+Top Borrower Default,LGD,1,Top Borrower Default
